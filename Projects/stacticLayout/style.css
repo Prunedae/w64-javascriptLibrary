@@ -1,0 +1,91 @@
+body {
+    background-image: url("https://hcdevilsadvocate.com/wp-content/uploads/2019/01/netflix-background-9.jpg")
+ }
+ 
+ .login{
+   float: left;
+   background-color: red;
+   color: white;
+   text-align: center;
+   
+ }
+ 
+ .header{
+   width: 10px;
+   height: 15px;
+   padding: 20px;
+   font-size: 35px;
+   font-weight: bold;
+   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   color: red;
+ }
+   
+   
+
+ .content-info{ 
+    position: relative;
+    width: 100%;
+    padding: 70px;
+    max-width: 950px;
+    margin: 0 auto;
+    text-align: center;
+    z-index: 1
+ }
+   
+ label.text1 {
+      float: left;
+      width: 50%;
+    padding: 25px;
+      color:white;
+      margin-left: 25%;
+      font-size: 45px;
+      font-weight: bold;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+ }
+   
+  label.text2{
+      float: left;
+      width: 50%;
+      Padding: 25px;
+      color:white;
+      margin-left: 35%;
+      font-size: 28px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+ }
+ 
+ label.text3{ 
+   float: left;
+      width: 50%;
+    padding: 25px;
+      color:white;
+      margin-left: 35%;
+      font-size: 20px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+ }
+ 
+ .input{ 
+   width: 75%;
+     margin-left: 35%;
+     float: left;
+     input:[type= "text"]
+     float: left;
+     padding: 30px 20px;
+     font-size: 30px;
+     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     border: 1px solid rgba(0,0,0,.3);
+     border-bottom-left-radius: 3px;
+     border-top-left-radius: 3px;
+     width: calc(75% - 30px);
+ }
+   
+ .button{ 
+   float: right;
+     width: 75%;
+     border:0;
+     height: 225px;
+     text-transform: uppercase;
+     color: White;
+     font-size: 25px;
+   background-color: red;
+   margin-left: 10px;
+ }

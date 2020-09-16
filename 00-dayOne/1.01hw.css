@@ -1,0 +1,13 @@
+.mainTable {
+    background-color: lightskyblue;
+    text-align: center;
+    display: grid;
+    border: solid;
+    padding: 25px;
+}
+
+.titleMovies {
+    font-style: italic;
+    color: red;
+}
+
